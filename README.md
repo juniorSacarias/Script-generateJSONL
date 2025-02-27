@@ -44,7 +44,7 @@ This repository was born from the need to obtain, during the research carried ou
       
      With this configuration we will obtain two files: one with the extension .csv and another with the extension .log
 
-## 👨‍🔧 First steps
+## 👨‍🔧 Start the convertions
 
   In this section we will explain the use of the tools introduced within the client (it is important that it is updated as new features are added)
 
